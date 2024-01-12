@@ -1,0 +1,88 @@
+{
+    "SmallPCRoom" : {
+        "1" : {        
+        },
+        "2" : {
+        },
+        "3" : { 
+        },
+        "4" : {        
+            "2": {"start_h": 8, "start_m": 55, "end_h": 9, "end_m": 40,"techer":"Нешо Нешев", "subject":"Разработване на софтуер"},
+            "3": {"start_h": 9, "start_m": 50, "end_h": 10, "end_m": 35, "techer":"Нешо Нешев","subject":"Разработване на софтуер-УП"}
+        },
+        "5" : {        
+            "2": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45,"techer":"Нешо Нешев", "subject":"Разработване на софтуер"},
+            "3": {"start_h": 8, "start_m": 55, "end_h": 9, "end_m": 40, "techer":"Нешо Нешев","subject":"Разработване на софтуер-УП"}
+          }
+    },
+
+    "MainPCRoom" : { 
+        "1" : {        
+            "1": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45, "techer":"Георги Густинов", "subject":"Обектно орентиране"},
+            "2": {"start_h": 8, "start_m": 55, "end_h": 9, "end_m": 40,"techer":"Георги Густинов", "subject":"Обектно орентиране"},
+            "3": {"start_h": 9, "start_m": 50, "end_h": 10, "end_m": 35, "techer":"Георги Густинов","subject":"Конкурентно програмиране"},
+            "4": {"start_h": 10, "start_m": 55, "end_h": 11, "end_m": 40, "techer":"Георги Густинов","subject":"Конкурентно програмиране - УП"},
+            "5": {"start_h": 11, "start_m": 50, "end_h": 12, "end_m": 35, "techer":"Георги Густинов","subject":"Обектно орентиране-УП"},
+            "6": {"start_h": 12, "start_m": 45, "end_h": 13, "end_m": 30, "techer":"Георги Густинов","subject":"Обектно орентиране-УП"}
+        },
+        "2" : {        
+            "1": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45, "techer":"Георги Густинов", "subject":"Вградени системи"},
+            "4": {"start_h": 10, "start_m": 55, "end_h": 11, "end_m": 40, "techer":"Георги Густинов","subject":"Вградени системи-УП"},
+            "5": {"start_h": 11, "start_m": 50, "end_h": 12, "end_m": 35, "techer":"Георги Густинов","subject":"Мат.основи на програмирането"},
+            "6": {"start_h": 12, "start_m": 45, "end_h": 13, "end_m": 30, "techer":"Георги Густинов","subject":"Мат.основи на програмирането-УП"}
+        },
+        "3" : {        
+            "1": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45, "techer":"Георги Густинов", "subject":"РПП бази данни"},
+            "2": {"start_h": 8, "start_m": 55, "end_h": 9, "end_m": 40,"techer":"Георги Густинов", "subject":"РПП бази данни"},
+            "4": {"start_h": 10, "start_m": 55, "end_h": 11, "end_m": 40, "techer":"Георги Густинов","subject":"Бази данни-УП"},
+            "7": {"start_h": 13, "start_m": 40, "end_h": 14, "end_m": 25, "techer":"Георги Густинов","subject":"Бази данни"}
+        }
+    },
+
+    "11A" : {
+        "1" : {        
+            "1": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45, "techer":"Георги Густинов", "subject":"Обектно орентиране"},
+            "2": {"start_h": 8, "start_m": 55, "end_h": 9, "end_m": 40,"techer":"Георги Густинов", "subject":"Обектно орентиране"},
+            "3": {"start_h": 9, "start_m": 50, "end_h": 10, "end_m": 35, "techer":"Георги Густинов","subject":"Конкурентно програмиране"},
+            "4": {"start_h": 10, "start_m": 55, "end_h": 11, "end_m": 40, "techer":"Георги Густинов","subject":"Конкурентно програмиране - УП"},
+            "5": {"start_h": 11, "start_m": 50, "end_h": 12, "end_m": 35, "techer":"Георги Густинов","subject":"Обектно орентиране-УП"},
+            "6": {"start_h": 12, "start_m": 45, "end_h": 13, "end_m": 30, "techer":"Георги Густинов","subject":"Обектно орентиране-УП"}
+        },
+        "2" : {        
+            "1": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45, "techer":"Георги Густинов", "subject":"Вградени системи"},
+            "2": {"start_h": 8, "start_m": 55, "end_h": 9, "end_m": 40,"techer":"Гинка Попова", "subject":"БЕЛ"},
+            "3": {"start_h": 9, "start_m": 50, "end_h": 10, "end_m": 35, "techer":"Мариана Димитрова-Естатиева","subject":"РЕ"},
+            "4": {"start_h": 10, "start_m": 55, "end_h": 11, "end_m": 40, "techer":"Георги Густинов","subject":"Вградени системи-УП"},
+            "5": {"start_h": 11, "start_m": 50, "end_h": 12, "end_m": 35, "techer":"Георги Густинов","subject":"Мат.основи на програмирането"},
+            "6": {"start_h": 12, "start_m": 45, "end_h": 13, "end_m": 30, "techer":"Георги Густинов","subject":"Мат.основи на програмирането-УП"},
+            "7": {"start_h": 13, "start_m": 40, "end_h": 14, "end_m": 25, "techer":"Йордан Раднев","subject":"ЧК"}
+        },
+        "3" : {        
+            "1": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45, "techer":"Георги Густинов", "subject":"РПП бази данни"},
+            "2": {"start_h": 8, "start_m": 55, "end_h": 9, "end_m": 40,"techer":"Георги Густинов", "subject":"РПП бази данни"},
+            "3": {"start_h": 9, "start_m": 50, "end_h": 10, "end_m": 35, "techer":"Мария Терзиева","subject":"Математика"},
+            "4": {"start_h": 10, "start_m": 55, "end_h": 11, "end_m": 40, "techer":"Георги Густинов","subject":"Бази данни-УП"},
+            "5": {"start_h": 11, "start_m": 50, "end_h": 12, "end_m": 35, "techer":"Гинка Попова","subject":"БЕЛ"},
+            "6": {"start_h": 12, "start_m": 45, "end_h": 13, "end_m": 30, "techer":"Гинка Попова","subject":"БЕЛ"},
+            "7": {"start_h": 13, "start_m": 40, "end_h": 14, "end_m": 25, "techer":"Георги Густинов","subject":"Бази данни"}
+        },
+        "4" : {        
+            "1": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45, "techer":"Мариана Димитрова-Естатиева", "subject":"PE"},
+            "2": {"start_h": 8, "start_m": 55, "end_h": 9, "end_m": 40,"techer":"Нешо Нешев", "subject":"Разработване на софтуер"},
+            "3": {"start_h": 9, "start_m": 50, "end_h": 10, "end_m": 35, "techer":"Нешо Нешев","subject":"Разработване на софтуер-УП"},
+            "4": {"start_h": 10, "start_m": 55, "end_h": 11, "end_m": 40, "techer":"Мария Терзиева","subject":"Математика"},
+            "5": {"start_h": 11, "start_m": 50, "end_h": 12, "end_m": 35, "techer":"Лилия Думбалакова","subject":"ФВС"},
+            "6": {"start_h": 12, "start_m": 45, "end_h": 13, "end_m": 30, "techer":"Нешо Нешев","subject":"Чужд език по професията-AE"},
+            "7": {"start_h": 13, "start_m": 40, "end_h": 14, "end_m": 25, "techer":"Лилия Думбалакова","subject":"ДЧСД"}
+        },
+        "5" : {        
+            "2": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45,"techer":"Нешо Нешев", "subject":"Разработване на софтуер"},
+            "3": {"start_h": 8, "start_m": 55, "end_h": 9, "end_m": 40, "techer":"Нешо Нешев","subject":"Разработване на софтуер-УП"},
+            "4": {"start_h": 9, "start_m": 50, "end_h": 10, "end_m": 35, "techer":"Йордан Раднев","subject":"Граждаско образованиве"},
+            "5": {"start_h": 10, "start_m": 55, "end_h": 11, "end_m": 40, "techer":"Лилия Думбалакова","subject":"ФВС"},
+            "6": {"start_h": 11, "start_m": 50, "end_h": 12, "end_m": 35, "techer":"Нешо Нешев","subject":"Чужд език по професията-AE"},
+            "7": {"start_h": 12, "start_m": 45, "end_h": 13, "end_m": 30, "techer":"Атанас Костов","subject":"ОС"},
+            "8": {"start_h": 13, "start_m": 40, "end_h": 14, "end_m": 25, "techer":"Атанас Костов","subject":"ОС-УП"}
+          }
+        }
+    }
