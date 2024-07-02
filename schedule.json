@@ -57,7 +57,7 @@
             "1": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45, "techer":"Йордан Раднев","subject":"ЧК"},
             "2": {"start_h": 8, "start_m": 55, "end_h": 9, "end_m": 40,"techer":"Георги Густинов","subject":"ЧЕП"},
             "3": {"start_h": 9, "start_m": 50, "end_h": 10, "end_m": 35, "techer":"Георги Густинов","subject":"ЧЕП"},
-            "4": {"start_h": 10, "start_m": 55, "end_h": 11, "end_m": 40, "techer":"Мариана Димитрова-Естатиева", "subject":"PE"},
+            "4": {"start_h": 10, "start_m": 55, "end_h": 11, "end_m": 40, "techer":"Мариана Димитрова-Евстатиева", "subject":"PE"},
             "5": {"start_h": 12, "start_m": 45, "end_h": 13, "end_m": 30, "techer":"Атанас Костов","subject":"VS"},
             "6": {"start_h": 13, "start_m": 40, "end_h": 14, "end_m": 25, "techer":"Атанас Костов","subject":"VS-УП"}
         },
@@ -71,7 +71,7 @@
             "7": {"start_h": 13, "start_m": 40, "end_h": 14, "end_m": 25, "techer":"Георги Густинов","subject":"ООП - УП"}
         },
         "4" : {        
-            "1": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45, "techer":"Мариана Димитрова-Естатиева", "subject":"PE"},
+            "1": {"start_h": 8, "start_m": 0, "end_h": 8, "end_m": 45, "techer":"Мариана Димитрова-Евстатиева", "subject":"PE"},
             "2": {"start_h": 8, "start_m": 55, "end_h": 9, "end_m": 40,"techer":"Георги Густинов","subject":"МОС"},
             "3": {"start_h": 9, "start_m": 50, "end_h": 10, "end_m": 35, "techer":"Георги Густинов","subject":"МОС"},
             "4": {"start_h": 10, "start_m": 55, "end_h": 11, "end_m": 40, "techer":"Георги Густинов","subject":"КПР - УП"},
